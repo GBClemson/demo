@@ -287,38 +287,6 @@
             "url": "http://morar.biz/mollitia-numquam-magni-delectus",
             "created_at": "2018-03-06 15:58:04",
             "updated_at": "2018-03-06 15:58:04"
-        },
-        {
-            "id": 8243,
-            "first_name": "Hipolito",
-            "last_name": "Grady",
-            "company_name": "Hane, Dooley and Toy",
-            "address": "70196 Corwin Hill Apt. 006",
-            "city": "Port Shaniyaview",
-            "state": "Nevada",
-            "zip": 80849,
-            "phone": "1-867-947-2312 x57400",
-            "work_phone": "457-513-5185",
-            "email": "ruthe.cormier@example.net",
-            "url": "http://rath.org/provident-dolores-velit-qui-a-sint-reprehenderit",
-            "created_at": "2018-03-06 15:58:04",
-            "updated_at": "2018-03-06 15:58:04"
-        },
-        {
-            "id": 8264,
-            "first_name": "Santa",
-            "last_name": "Greenfelder",
-            "company_name": "Heathcote-Raynor",
-            "address": "831 Ima Mission",
-            "city": "South Llewellynville",
-            "state": "California",
-            "zip": 61225,
-            "phone": "639.500.8161",
-            "work_phone": "(317) 521-2468",
-            "email": "kayley.cartwright@example.net",
-            "url": "http://www.larson.biz/similique-eius-quia-ut-excepturi.html",
-            "created_at": "2018-03-06 15:58:04",
-            "updated_at": "2018-03-06 15:58:04"
         }
     ]
 }
